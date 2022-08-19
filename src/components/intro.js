@@ -82,6 +82,7 @@ const Intro = (props) => {
             <h1>Hi</h1>
             <h3>I'm Aniket Suresh Kelkar</h3>
             <h6>I design and Code simple yet beautiful websites</h6>
+            <h6>I am still learner</h6>
         </Text>
       </SubBox>
       <SubBox>
